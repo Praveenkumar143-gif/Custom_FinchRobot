@@ -1,0 +1,4 @@
+{
+  "finch.startFinch": "Denne blok er påkrævet for alle Finch programmer.",
+  "finch.getBattery": "Læser værdien af batteriet i milliVolt. Du vil muligvis se en underlig opførsel, hvis værdien kommer under 3373 mV."
+}
