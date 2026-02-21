@@ -1,4 +1,4 @@
 {
-  "finch.startFinch|block": "Start Finch",
-  "finch.getBattery|block": "Finch Batteri"
+  "robox.startFinch|block": "Start Finch",
+  "robox.getBattery|block": "Finch Batteri"
 }
