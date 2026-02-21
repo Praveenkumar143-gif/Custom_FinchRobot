@@ -1,4 +1,4 @@
 {
-  "finch.startFinch|block": "Käynnistä Finch",
-  "finch.getBattery|block": "Finch Akku"
+  "robox.startFinch|block": "Käynnistä Finch",
+  "robox.getBattery|block": "Finch Akku"
 }

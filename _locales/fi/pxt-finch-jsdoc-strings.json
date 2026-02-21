@@ -1,4 +1,4 @@
 {
-  "finch.startFinch": "Tämä lohko tarvitaan jokaiseen Finch-ohjelmaan.",
-  "finch.getBattery": "Lukee akun tilan millivoltteina. Toiminta saattaa muuttua omituiseksi, jos arvo on alle 3373 mV."
+  "robox.startFinch": "Tämä lohko tarvitaan jokaiseen Finch-ohjelmaan.",
+  "robox.getBattery": "Lukee akun tilan millivoltteina. Toiminta saattaa muuttua omituiseksi, jos arvo on alle 3373 mV."
 }

@@ -1,4 +1,4 @@
 {
-  "finch.startFinch": "Detta block krävs i varje Finch program.",
-  "finch.getBattery": "Läser av batteriets spänning i milliVolt. Spänning under 3373 mV kan orsaka onormalt beteende."
+  "robox.startFinch": "Detta block krävs i varje Finch program.",
+  "robox.getBattery": "Läser av batteriets spänning i milliVolt. Spänning under 3373 mV kan orsaka onormalt beteende."
 }
