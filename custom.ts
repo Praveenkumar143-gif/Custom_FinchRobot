@@ -53,7 +53,7 @@ enum Orientation {
 /**
  * Blocks for Controlling a Finch
  */
-//% color=#FF5733 weight=32 icon="\uf013"
+//% color=#FF5733 weight=32 icon="\uF013"
 namespace robox {
 
     let readyToSend: boolean
