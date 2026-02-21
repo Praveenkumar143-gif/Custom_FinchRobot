@@ -33,6 +33,6 @@
   "Orientation.Level|block": "Level",
   "Orientation.UpsideDown|block": "Upside Down",
   "Orientation.Shake|block": "Shake",
-  "finch|block": "finch",
-  "{id:category}Finch": "Finch"
+  "finch|block": "RoboX",
+  "{id:category}RoboX": "RoboX"
 }

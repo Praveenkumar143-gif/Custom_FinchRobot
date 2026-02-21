@@ -1,7 +1,7 @@
 {
-    "name": "pxt-finch",
+    "name": "pxt-robox",
     "version": "0.0.5",
-    "description": "Finch robot MakeCode extension",
+    "description": "RoboX MakeCode extension",
     "dependencies": {
         "core": "*"
     },
